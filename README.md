@@ -69,7 +69,7 @@ In this section, you will find projects related to various machine learning algo
 - NLTK
 - SpaCy
 - Transformers
-- To install the dependencies, you can use the following command:
+
 
 
 ## Usage
@@ -91,7 +91,7 @@ For any questions or inquiries, please contact me at:
 
 - Email: shreedharjagatap2002@gmail.com
 - LinkedIn: http://linkedin.com/in/shreedhar13
-Thank you for visiting my repository!
+- Thank you for visiting my repository!
 
 
 
